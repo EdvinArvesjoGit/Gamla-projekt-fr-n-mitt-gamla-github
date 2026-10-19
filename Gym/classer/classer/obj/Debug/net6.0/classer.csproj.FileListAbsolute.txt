@@ -1,0 +1,15 @@
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\bin\Debug\net6.0\classer.exe
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\bin\Debug\net6.0\classer.deps.json
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\bin\Debug\net6.0\classer.runtimeconfig.json
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\bin\Debug\net6.0\classer.dll
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\bin\Debug\net6.0\classer.pdb
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.csproj.AssemblyReference.cache
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.AssemblyInfoInputs.cache
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.AssemblyInfo.cs
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.csproj.CoreCompileInputs.cache
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.dll
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\refint\classer.dll
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.pdb
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\classer.genruntimeconfig.cache
+C:\Users\edvin.arvesjo\Desktop\C#\classer\classer\obj\Debug\net6.0\ref\classer.dll
